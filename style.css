@@ -1,0 +1,848 @@
+#zagolovok {
+	position: relative;
+	width: 1400px;
+	height: 50px;
+    margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+
+#logo {
+	position: absolute;
+	margin-top: 11px;
+	margin-left: 20px;
+	width: 200px;
+	height: 30px;
+}
+
+#spravka {
+	position: absolute;
+	margin-top: 4px;
+	margin-left: 365px;
+}
+
+#znakvoprosa {
+	position: absolute;
+	margin-top: 10px;
+}
+
+#tekstpospravke {
+	margin-top: -15px;
+	margin-left: 35px;
+	font-family: "Times New Roman";
+	font-size: 14pt;
+	color: #4cbd00;
+}
+
+#timework {
+	position: absolute;
+	margin-top: -75px;
+	margin-left: 300px;
+	width: 250px;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+}
+
+#otstupmejduabzacami {
+	margin-top: -18px;
+}
+
+#socsety {
+	position: absolute;
+	margin-top: -53px;
+	margin-left: 620px;
+}
+
+#vk {
+	position: absolute;
+	background: url(img/sety/vk.png);
+	display: block;
+	width: 25px;
+    height: 25px;
+}
+
+#vk:hover {
+	background: url(img/sety/vk_1.png);
+}
+
+#facebook {
+	position: absolute;
+	margin-left: 32px;
+	background: url(img/sety/fb.png);
+	display: block;
+	width: 25px;
+	height: 24px;
+}
+
+#facebook:hover {
+	background: url(img/sety/fb_1.png);
+}
+
+#odnoklassniki {
+	position: absolute;
+	margin-left: 64px;
+	background: url(img/sety/odnoklasniky.png);
+	display: block;
+	width: 25px;
+	height: 24px;
+}
+
+#odnoklassniki:hover {
+	background: url(img/sety/odnoklasniky_1.png);
+}
+
+#twitter {
+	position: absolute;
+	margin-left: 96px;
+	background: url(img/sety/twitter.png);
+	display: block;
+	width: 25px;
+	height: 25px;
+}
+
+#twitter:hover {
+	background: url(img/sety/twitter_1.png);
+}
+
+#youtube {
+	position: absolute;
+	margin-left: 128px;
+	background: url(img/sety/youtube.png);
+	display: block;
+	width: 25px;
+	height: 25px;
+}
+
+#youtube:hover {
+	background: url(img/sety/youtube_1.png);
+}
+
+#korzinaButton {
+	position: absolute;
+	margin-top: -62px;
+	margin-left: 865px;
+	border-radius: 25px;
+	border: 1px solid #4cbd00;
+	width: 150px;
+	height: 40px;
+	text-align: right;
+	background-image: url(img/Korzina.png);
+	background-repeat: no-repeat;
+	background-color: #4cbd00;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	font-weight: bold;
+	color: white;
+	outline-style: none;
+	cursor: pointer;
+}
+
+#navigation {
+   position: relative;
+   width: 1400px;
+   height: 55px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #a7cece; 
+}
+
+#FalseMarginLeft {
+	position: absolute;
+	width: 27px;
+	height: 55px;
+	background-color: white;
+}
+
+#menu {
+	margin-top: 15px;
+}
+
+ul#menuli li {
+	display:inline;
+}
+
+#menuli {
+margin-top: 8px;
+}
+
+#index {
+	position: absolute;
+	padding: 17px 0px 16px 0px;
+	margin-left: 2px;
+	text-decoration: none;
+	color: white;
+	background-color: #a7cece; 
+	font-family: "Arial";
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+#index:hover {
+	color:#53b80f;
+	background: url(img/logo-for-ssylki.png) no-repeat;
+	background-position: center top;
+}
+
+#news {
+	position: absolute;
+	padding: 17px 0px 16px 0px;
+	margin-left: 150px;
+	text-decoration: none;
+	color: white;
+	background-color: #a7cece; 
+	font-family: "Arial";
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+#news:hover {
+	color:#53b80f;
+	background: url(img/logo-for-ssylki.png) no-repeat;
+	background-position: center top;
+}
+
+#book {
+	position: absolute;
+	padding: 17px 0px 16px 0px;
+	margin-left: 298px;
+	text-decoration: none;
+	color: white;
+	background-color: #a7cece; 
+	font-family: "Arial";
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+#book:hover {
+	color:#53b80f;
+	background: url(img/logo-for-ssylki.png) no-repeat;
+	background-position: center top;
+}
+
+#contacts {
+	position: absolute;
+	padding: 17px 0px 16px 0px;
+	margin-left: 425px;
+	text-decoration: none;
+	color: white;
+	background-color: #a7cece; 
+	font-family: "Arial";
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+#contacts:hover {
+	color:#53b80f;
+	background: url(img/logo-for-ssylki.png) no-repeat;
+	background-position: center top;
+}
+
+#vacancy {
+	position: absolute;
+	padding: 17px 0px 16px 0px;
+	margin-left: 590px;
+	text-decoration: none;
+	color: white;
+	background-color: #a7cece; 
+	font-family: "Arial";
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+#vacancy:hover {
+	color:#53b80f;
+	background: url(img/logo-for-ssylki.png) no-repeat;
+	background-position: center top;
+}
+
+#poisk {
+	position: absolute;
+	margin-left: 790px;
+	margin-top: 16px;
+	width: 300px;
+	height: 20px;
+	font-family: "roboto" "Arial";
+	background-color: #a7cece;
+	color: #f1f1f1;
+	font-size: 11pt;
+	display: block;
+	outline: none;
+	border-top: 1px solid #a7cece;
+	border-left: 1px solid #a7cece;
+	border-right: 1px solid #a7cece;
+	border-bottom: 1px solid #f3f3f3;
+}
+
+::placeholder { 
+	color: #f3f3f3;
+ }
+
+#poiskbutton {
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 1180px;
+	border-radius: 25px;
+	border: 1px solid #4cbd00;
+	width: 120px;
+	height: 40px;
+	text-align: right;
+	background-image: url(img/lupa.png);
+	background-position: top 9px left 5px;
+	background-repeat: no-repeat;
+	background-color: #4cbd00;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	font-weight: bold;
+	color: white;
+	outline: none;
+	cursor: pointer;
+}
+
+
+#kartinky {
+	position: relative;
+	width: 1400px;
+	height: 550px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.buttonImg {
+	position: absolute;
+	border-radius: 25px;
+	width: 1px;
+	height: 15px;
+	outline-style: none;
+	cursor: pointer;
+	border: 1px solid black; 
+}
+
+#buttonImg1 {
+	margin-top: -80px;
+	margin-left: 660px;
+}
+
+#buttonImg2 {
+	margin-top: -80px;
+	margin-left: 690px;
+}
+
+#buttonImg3 {
+	margin-top: -80px;
+	margin-left: 720px;
+}
+
+#buttonImg4 {
+	margin-top: -80px;
+	margin-left: 750px;
+}
+
+#buttonImgBack {
+	position: absolute;
+	margin-top: -85px;
+	margin-left: 620px;
+	border-radius: 25px;
+	width: 25px;
+	height: 25px;
+	outline-style: none;
+	cursor: pointer;
+	border: 1px solid black;
+	background-image: url(img/ArrowBack.png);
+	background-position: top 4px left 4px;
+	background-repeat: no-repeat;
+}
+
+#buttonImgNext {
+	position: absolute;
+	margin-top: -85px;
+	margin-left: 780px;
+	border-radius: 25px;
+	width: 25px;
+	height: 25px;
+	outline-style: none;
+	cursor: pointer;
+	border: 1px solid black;
+	background-image: url(img/ArrowNext.png);
+	background-position: top 4px left 3px;
+	background-repeat: no-repeat;
+}
+
+#NewsBookWorld {
+	position: relative;
+	width: 1400px;;
+	height: 380px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #a7cece; 
+	margin-top: -22px;
+}
+
+#NewsText {
+	text-align: center;
+	padding-top: 20px;
+	margin-left: -15px;
+}
+
+h1 {
+	color: white;
+	font-family: "Arial";
+	font-size: 20pt;
+	font-weight: bold; 
+	text-decoration: none;
+}
+
+.NewsImgText {
+	width: 265px;
+}
+
+.NewsTextText {
+	text-decoration: none;
+	color: white;
+	font-family: "Arial";
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.NewsTextText:hover {
+	text-decoration: underline;
+}
+
+.NewsTextPadding {
+	margin-top: -10px;
+}
+
+#FalseMarginLeftNews {
+	position: absolute;
+	margin-top: -87px;
+	width: 27px;
+	height: 381px;
+	background-color: white;
+}
+
+#martin {
+	margin-left: 44px;
+}
+
+#PocketBook {
+	position: absolute;
+	margin-top: -242px;
+	margin-left: 401px;
+}
+
+#King {
+	position: absolute;
+	margin-top: -261px;
+	margin-left: 763px;
+}
+
+#bookby {
+	float: right;
+	margin-right: 17px;
+	margin-top: -261px;
+}
+
+#niz {
+	position: relative;
+	width: 1400px;
+	height: 370px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+#loganiz {
+	margin-top: 80px;
+	margin-left: 20px;
+}
+
+#textniz {
+	width: 350px;
+	margin-left: 9px;
+	font-family: "times new roman";
+	color: #4e8080; 
+}
+
+#menuniz {
+	position: absolute;
+	margin-top: -200px;
+	margin-left: 500px;
+}
+
+#contaktyniz {
+	position: absolute;
+	margin-top: -200px;
+	margin-left: 770px;
+	width: 200px;
+}
+
+.ZaglavieTextBold {
+	font-size: 17pt;
+	font-weight: bold;
+	font-family: "times new roman";
+}
+
+.textnizmenussilka {
+	font-size: 15pt;
+	font-family: "times new roman";
+	color: black;
+	text-decoration: none;
+}
+
+.textnizmenussilka:hover {
+	color:#53b80f;
+	cursor: pointer;
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+.textnizkontakty {
+	font-size: 14pt;
+	font-family: "times new roman";
+	color: black;
+	text-decoration: none;
+}
+
+#vkniz {
+	position: absolute;
+	background: url(img/sety/vk_niz.png);
+	display: block;
+	width: 25px;
+	height: 25px;
+}
+
+#vkniz:hover {
+	background: url(img/sety/vk_1.png);
+}
+
+#facebookniz {
+	position: absolute;
+	margin-left: 35px;
+	background: url(img/sety/fb_niz.png);
+	display: block;
+	width: 25px;
+	height: 24px;
+}
+
+#facebookniz:hover {
+	background: url(img/sety/fb_1.png);
+}
+
+#odnoklassnikiniz {
+	position: absolute;
+	margin-left: 70px;
+	background: url(img/sety/odnoklasniky_niz.png);
+	display: block;
+	width: 25px;
+	height: 24px;
+}
+
+#odnoklassnikiniz:hover {
+	background: url(img/sety/odnoklasniky_1.png);
+}
+
+#twitterniz {
+	position: absolute;
+	margin-left: 105px;
+	background: url(img/sety/twitter_niz.png);
+	display: block;
+	width: 25px;
+	height: 25px;
+}
+
+#twitterniz:hover {
+	background: url(img/sety/twitter_1.png);
+}
+
+#youtubeniz {
+	position: absolute;
+	margin-left: 140px;
+	background: url(img/sety/youtube_niz.png);
+	display: block;
+	width: 25px;
+	height: 25px;
+}
+
+#youtubeniz:hover {
+	background: url(img/sety/youtube_1.png);
+}
+
+#RegimWork {
+	position: relative;
+	margin-top: -184px;
+	margin-left: auto;
+	width: 270px;
+}
+
+#cherta {
+	margin-top: 200px;
+	background-color: #a7cece;
+	transform: scaleY(0.2);
+}
+
+#razrabotchik {
+	position: relative;
+	margin-left: auto;
+	width: 96px;
+	font-size: 10pt;
+	font-family: "times new roman";
+}
+
+.textzagolovok {
+	margin-left: 27px;
+	font-family: "Arial";
+	font-size: 22pt;
+	font-weight: bold; 
+}
+
+#contentKorzina {
+	position: relative;
+	width: 1400px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#TextKorzina {
+	margin-top: 40px;
+}
+
+#nizKorzina {
+	position: relative;
+	width: 1400px;
+	height: 370px;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.TextTovaraKorzina {
+	/* position: absolute; */
+	width: 580px;
+	/* margin-top: 60px; */
+	margin-left: 150px;
+	padding-top: 20px;
+	font-family: "Arial";
+	font-size: 16pt;
+	color: black;
+}
+
+/* .TextTovaraVKorzine {
+	margin-top: 150px;
+} */
+
+.СircleButtonMinus {
+	/* position: absolute; */
+	width: 40px;
+	margin-top: -45px;
+	margin-left: 750px;
+}
+
+.KolvoBook {
+	width: 50px;
+	height: 40px;
+	margin-top: -37px;
+	margin-left: 795px;
+}
+
+#СircleButtonPlus {
+	width: 40px;
+	margin-top: -48px;
+	margin-left: 847px;
+}
+
+.СircleButton {
+	/* padding: 20px; */
+	width: 45px;
+  	height: 45px;
+    text-align: center;
+	border-radius: 50%;
+	font-size: 18pt;
+	font-family: "GDT";
+	font-weight: bold; 
+	background: white;
+	outline: none;
+	border: 2px solid rgb(207, 207, 207);
+	cursor: pointer;
+}
+
+.СircleButton:hover {
+	border: 2px solid rgb(207, 207, 207);
+	outline: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+.InputNamber {
+	/* position: absolute; */
+	/* margin-top: 55px; */
+	width: 50px;
+	font-size: 18pt;
+	text-align: center;
+	outline: none;
+	/*outline-offset: 0; */
+	/* box-shadow: none; */
+	border: none;
+	background-color: white;
+}
+
+.PriceZaTovar {
+	/* position: absolute; */
+	margin-top: -45px;
+	margin-left: 1000px;
+	font-family: "Arial";
+	font-size: 21pt;
+	color: black;
+	/* font-weight: bold;  */
+}
+
+.InputPrice {
+	margin-top: 6px;
+	width: 85px;
+	font-family: "Arial";
+	font-size: 21pt;
+	color: black;
+	/* font-weight: bold;  */
+	background-color: white;
+	border: none;
+} 
+
+.buttonDelete {
+	width: 45px;
+  	height: 45px;
+    text-align: center;
+	border-radius: 50%;
+	font-size: 18pt;
+	font-family: "GDT";
+	font-weight: bold; 
+	background: white; 
+	background-image: url(img/крест.png); 
+	background-repeat: no-repeat; 
+	background-position: center;
+	outline: none;
+	border: 2px solid rgb(207, 207, 207);
+	cursor: pointer;
+
+	/* position: absolute;
+	margin-top: -62px;
+	margin-left: 865px;
+	border-radius: 25px;
+	border: 1px solid #4cbd00;
+	width: 150px;
+	height: 40px;
+	text-align: right;
+	background-image: url(img/Korzina.png);
+	background-repeat: no-repeat;
+	background-color: #4cbd00;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	font-weight: bold;
+	color: white;
+	outline-style: none;
+	cursor: pointer; */
+} 
+
+.divDelete {
+	margin-top: -40px;
+	margin-left: 1220px;
+}
+
+.sodergimoePokupki {
+	position: relative;
+	width: 1373px;
+	height: 200px;
+	margin-top: 25px;
+	margin-left: 27px;
+  	margin-right: auto;
+	box-shadow: 0px 0px 10px 0px rgb(236, 214, 214); 
+	border-radius: 5px;
+	outline: none;
+}
+
+#contactPage {
+	position: relative;
+	width: 1400px;
+	height: auto;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+#korzinaContent {
+	position: relative;
+	width: 1400px;
+	height: auto;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+#onstupKorzina {
+	height: 5px;
+	margin-top: 30px;
+}
+
+#itogo {
+	position: relative;
+	width: 1373px;
+	height: 200px;
+	margin-top: 35px;
+	margin-left: 935px;
+  	margin-right: auto; 
+	border-radius: 5px;
+	outline: none;
+}
+
+#oformZakaz {
+	position: relative;
+	margin-top: 0px;
+	margin-left: 27px;
+	border-radius: 10px;
+	border: 1px solid #4cbd00;
+	width: 200px;
+	height: 60px;
+	background-repeat: no-repeat;
+	background-color: #4cbd00;
+	font-family: "Times New Roman";
+	font-size: 17pt;
+	font-weight: bold;
+	color: white;
+	outline-style: none;
+	cursor: pointer;
+}
+
+.kontentZakaz {
+	position: relative;
+	width: 1400px;
+   	height: 270px;
+  	margin-left: auto;
+   	margin-right: auto;
+	text-align: center;
+	/* background-color: rgb(171, 171, 202); */
+}
+
+.contactsPage {
+	position: relative;
+	width: 1400px;
+	/* height: 1450px; */
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.textPodZagolovokContacts {
+	position: relative;
+	margin-left: 27px;
+	font-family: "Arial";
+	font-size: 18pt;
+	font-weight: bold; 
+}
+
+.textContacts {
+	position: relative;
+	margin-left: 27px;
+	font-family: "Arial";
+	font-size: 16pt;
+	/* font-weight: bold;  */
+}

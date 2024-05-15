@@ -1,0 +1,100 @@
+.martin_news {
+	position: relative;
+	width: 1400px;
+	height: 450px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.PocketBook_news {
+	position: relative;
+	width: 1400px;
+	height: 1200px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	/* background-color: cadetblue; */
+}
+
+.KartinkaNews {
+	padding-left: 27px;
+	float:left;
+	margin: 30px 20px 0px 0px;
+	width: 538px;
+	height: 300px;
+}
+
+.textNews {
+	margin-top: 53px;
+	font-family: "Times New Roman";
+	font-size: 14pt;
+}
+
+.textPodZagolovok {
+	margin-left: 27px;
+	font-family: "Arial";
+	font-size: 14pt;
+	font-weight: bold; 
+}
+
+.textPocketBook {
+	margin-left: 27px;
+}
+
+#nizPocketBook{
+	position: relative;
+	width: 1400px;
+	height: 370px;
+	margin-top: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#newsOsnovnoe {
+	position: relative;
+	width: 1400px;
+	/* height: 410px; */
+	height: 1450px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.KartinkaNewsOsnovnoe {
+	padding-left: 27px;
+	float:left;
+	margin: 30px 40px 0px 0px;
+	width: 498px;
+	height: 280px;
+	cursor: pointer;
+}
+
+.textzagolovokNews {
+	position: absolute;
+	margin-top: 35px;
+	font-family: "Arial";
+	font-size: 14pt;
+	color: black;
+	font-weight: bold; 
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.textzagolovokNews:hover {
+	color:#5fce15;
+}
+
+.PostNewsOsnovnoe {
+	position: relative;
+	width: 1400px;
+	height: 345px;
+}
+
+#nizNews{
+	position: relative;
+	width: 1400px;
+	height: 370px;
+	margin-top: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,247 @@
+
+
+#nizBook {
+	position: relative;
+	width: 1400px;
+	height: 370px;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bookvkladka {
+	position: relative;
+	width: 1400px;
+	height: 345px;
+}
+
+#bookvkladka {
+	position: relative;
+	width: 1400px;
+	height: 410px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#bookbestseller {
+	margin-top: -10px;
+	margin-left: 27px;
+}
+
+#falsebook {
+	position: absolute;
+	width: 27px;
+	height: 550px;
+	background-color: black;
+	margin-top: -500px;
+	margin-left: 661px;
+
+}
+
+#falsebooktwo {
+	position: absolute;
+	width: 1400px;
+	height: 30px;
+	background-color: black;
+	margin-top: -5px;
+	
+}
+
+.textzagolovokBook {
+	position: absolute;
+	margin-top: 395px;
+	margin-left: -163px;
+	font-family: "Arial";
+	font-size: 14pt;
+	color: black;
+	font-weight: bold; 
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.textzagolovokBook:hover {
+	color:#53b80f;
+}
+
+#bellit {
+	position: absolute;
+	margin-top: -384px;
+	margin-left: 405px;
+}
+
+#textbellit {
+	position: absolute;
+	margin-top: 405px;
+	margin-left: -172px;
+}
+
+#klasika {
+	/* position: absolute; */
+	float: right;
+	height: 380px;
+	width: 255px;
+	margin-top: -384px;
+	/* margin-left: 800px; */
+	margin-right: 330px;
+}
+
+#textklasika {
+	width: 50px;
+	margin-top: 405px;
+}
+
+#Fantezy {
+	float: right;
+	margin-top: -384px;
+}
+
+#textFantezy {
+	margin-top: 405px;
+}
+
+#otstupbestsellers {
+	margin-top: 40px;
+}
+
+#booksbestsellers{
+	position: relative;
+	width: 1400px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nizbestsellers {
+	margin-top: 1900px;
+}
+
+.KartinkaBook {
+	float:left;
+	margin: 15px 0px 0px 17px;
+}
+
+.textzagolovokBooks {
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 400px;
+	font-family: "Arial";
+	font-size: 20pt;
+	color: black;
+	font-weight: bold; 
+}
+
+.textzagolovokBooksOpisanie {
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 400px;
+	font-family: "Arial";
+	font-size: 16pt;
+	color: black;
+	font-weight: bold; 
+}
+
+.testBooks {
+	/* position: relative; */
+	position: absolute;
+	margin-top: 130px;
+	margin-left: 400px;
+	font-family: "Times New Roman";
+	font-size: 14pt;
+}
+
+.price {
+	font-family: "Arial";
+	font-size: 20pt;
+	color: black;
+	font-weight: bold; 
+}
+
+.ButtonVKorzinu {
+	position: absolute;
+	margin-top: -65px;
+	margin-left: 265px;
+	border-radius: 4px;
+	border: 1px solid #4cbd00;
+	width: 182px;
+	height: 45px;
+	text-align: right;
+	background-color: #4cbd00;
+	font-family: "Times New Roman";
+	font-size: 14pt;
+	font-weight: bold;
+	color: white;
+	outline-style: none;
+	cursor: pointer;
+}
+
+.ButtonAddKorzinuHoking {
+	/* position: relative; */
+	position: absolute;
+	margin-top: -65px;
+	margin-left: 265px;
+	border-radius: 4px;
+	border: 2px solid #4cbd00;
+	width: 182px;
+	height: 45px;
+	text-align: right;
+	background-color: white;
+	font-family: "Times New Roman";
+	font-size: 14pt;
+	font-weight: bold;
+	color: #4cbd00;
+	outline-style: none;
+	cursor: pointer;
+}
+
+ .ButtonAddKorzinu{
+	/* position: relative; */
+	position: absolute;
+	margin-top: 294px;
+	margin-left: 300px;
+	margin-bottom: 100px;
+	border-radius: 4px;
+	border: 2px solid #4cbd00;
+	width: 182px;
+	height: 45px;
+	text-align: right;
+	background-color: white;
+	font-family: "Times New Roman";
+	font-size: 14pt;
+	font-weight: bold;
+	color: #4cbd00;
+	outline-style: none;
+	cursor: pointer;
+} 
+
+#petitPrints {
+	position: relative;
+	margin-top: 600px;
+}
+
+#kapital {
+	position: relative;
+	margin-top: 1150px;
+}
+
+#Uayld {
+	position: relative;
+	margin-top: 1800px;
+}
+
+#nizbestsellers {
+	position: relative;
+	width: 1400px;
+	height: 370px;
+	margin-top: 2420px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.bookstyle {
+	position: relative;
+	width: 1400px;
+	height: 600px;
+	margin-left: auto;
+   	margin-right: auto;
+}
